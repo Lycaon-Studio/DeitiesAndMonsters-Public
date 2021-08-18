@@ -1,0 +1,4 @@
+[submodule "DeitiesAndMonsters.wiki"]
+	path = DeitiesAndMonsters.wiki
+	url = https://github.com/andr9528/DeitiesAndMonsters.wiki.git
+	branch = master
